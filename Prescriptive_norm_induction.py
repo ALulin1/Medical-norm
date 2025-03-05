@@ -1,6 +1,4 @@
-# Patent Pending: [RU2024170315-001D] - Dynamic Norm Induction in Multi-Agent Healthcare Systems
-# Use of this technology requires explicit authorization from patent holders.
-# Copyright [2024] [CHAO LI/ITMO]
+# Copyright [2024] [CHAO LI/ITMO National Center for Cognitive Research]
 # Licensed under the Apache License, Version 2.0 (the "License");
 # Medical use requires compliance with ethical guidelines in ETHICAL_GUIDELINES.md.
 
